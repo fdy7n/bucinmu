@@ -1,5 +1,4 @@
-# Hi {Cewek}!
-I made this for you.
+Iseng frok dari Shidoitsuka
 
 ## <u>Build Setup</u>
 1. Clone this project `git clone https://github.com/shidoitsuka/bucin.git`
@@ -9,28 +8,6 @@ I made this for you.
 5. Open `variables.js` and fill the required variables (examples in the file)
 6. Open your command prompt/terminal and install the required dependencies :
 
-```bash
-#################################
-# Install required dependencies #
-#################################
-$ yarn
-# OR #
-$ npm install
-
-##############################################################
-# Serve with hot reload at {host}:{port} from config.js file #
-##############################################################
-$ yarn dev
-# OR #
-$ npm run dev
-
-#####################
-# For deploying, do #
-#####################
-$ yarn build
-# OR #
-$ npm run build
-```
 
 ## <u>Contributing</u>
 Feels like contributing to this project? Great! Fork it, make sure your stuffs are working well, make a PR with detailed information.
