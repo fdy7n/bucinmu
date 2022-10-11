@@ -3,7 +3,7 @@ import config from "./config";
 const { host, port } = config;
 
 export default {
-  ssr: "false",
+  ssr: false,
   /*
    ** Router base for github pages deployment.
    ** Need Documentation
